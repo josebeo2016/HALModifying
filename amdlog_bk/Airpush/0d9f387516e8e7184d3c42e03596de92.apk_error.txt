@@ -1,0 +1,20 @@
+[-]Error in: libcore.net.http.HttpURLConnectionImpl.getOutputStream
+[-]Error in: com.android.okhttp.internal.http.HttpURLConnectionImpl.getOutputStream
+[-]Error in: com.android.okhttp.internal.http.HttpURLConnectionImpl.getInputStream
+[-]Error in: android.app.SharedPreferencesImpl.commit
+[-]Error in: android.app.SharedPreferencesImpl.apply
+[-]Error in: android.app.SharedPreferencesImpl.putString
+[-]Error in: android.app.SharedPreferencesImpl.putBoolean
+[-]Error in: android.app.SharedPreferencesImpl.putInt
+[-]Error in: android.app.SharedPreferencesImpl.putLong
+[-]Error in: android.app.SharedPreferencesImpl.putFloat
+[-]Error in: net.sqlcipher.database.SQLiteDatabase.execSQL
+[-]Error in: net.sqlcipher.database.SQLiteDatabase.openOrCreateDatabase
+[-]Error in: net.sqlcipher.database.SQLiteDatabase.rawQuery
+[-]Error in: android.content.pm.PackageManager.isPackageSuspended
+Error: Implementation for renameTo expected return value compatible with 'boolean'.
+Error: Implementation for getPath expected return value compatible with 'java.lang.String'.
+Error: Implementation for getExternalStorageDirectory expected return value compatible with 'java.io.File'.
+TypeError: cannot read property 'getMethodName' of undefined
+Error: Implementation for getPath expected return value compatible with 'java.lang.String'.
+Error: Implementation for getDatabasePath expected return value compatible with 'java.io.File'.

@@ -1,0 +1,17 @@
+[-]Error in: libcore.net.http.HttpURLConnectionImpl.getOutputStream
+[-]Error in: com.android.okhttp.internal.http.HttpURLConnectionImpl.getOutputStream
+[-]Error in: com.android.okhttp.internal.http.HttpURLConnectionImpl.getInputStream
+TypeError: undefined not callable (property 'currentThread' of [object Object])
+TypeError: undefined not callable (property 'currentThread' of [object Object])
+[-]Error in: android.app.SharedPreferencesImpl.commit
+[-]Error in: android.app.SharedPreferencesImpl.apply
+[-]Error in: android.app.SharedPreferencesImpl.putString
+[-]Error in: android.app.SharedPreferencesImpl.putBoolean
+[-]Error in: android.app.SharedPreferencesImpl.putInt
+[-]Error in: android.app.SharedPreferencesImpl.putLong
+[-]Error in: android.app.SharedPreferencesImpl.putFloat
+TypeError: undefined not callable (property 'getClassName' of [object Object])
+[-]Error in: net.sqlcipher.database.SQLiteDatabase.execSQL
+[-]Error in: net.sqlcipher.database.SQLiteDatabase.openOrCreateDatabase
+[-]Error in: net.sqlcipher.database.SQLiteDatabase.rawQuery
+[-]Error in: android.content.pm.PackageManager.isPackageSuspended

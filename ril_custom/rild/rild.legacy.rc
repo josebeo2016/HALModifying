@@ -1,0 +1,9 @@
+service usbmw /system/usb_modeswitch -J -v 0x12d1 -p 0x1c0b
+	class main
+	user system
+	
+service ril-daemon /vendor/bin/hw/rild
+    class main
+    user radio
+    group radio cache inet misc audio log readproc wakelock
+    capabilities BLOCK_SUSPEND NET_ADMIN NET_RAW

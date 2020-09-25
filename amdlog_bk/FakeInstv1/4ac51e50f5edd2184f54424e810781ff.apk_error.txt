@@ -1,0 +1,3 @@
+[-]Error in: libcore.net.http.HttpURLConnectionImpl.getOutputStream
+[-]Error in: com.android.okhttp.internal.http.HttpURLConnectionImpl.getOutputStream
+[-]Error in: com.android.okhttp.internal.http.HttpURLConnectionImpl.getInputStream
